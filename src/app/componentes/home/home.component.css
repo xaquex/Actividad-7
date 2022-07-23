@@ -1,0 +1,8 @@
+.foto2 { 
+    padding: 10px; 
+    margin: 10px; 
+    border: 2px solid black; 
+    float: right; 
+    width: 250px; 
+    border-radius: 5px;
+}
